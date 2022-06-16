@@ -7,13 +7,6 @@ import de.fhpotsdam.unfolding.providers.AbstractMapProvider;
 import de.fhpotsdam.unfolding.providers.Google;
 import de.fhpotsdam.unfolding.providers.MBTilesMapProvider;
 import de.fhpotsdam.unfolding.utils.MapUtils;
-
-/** HelloWorld
-  * An application with two maps side-by-side zoomed in on different locations.
-  * Author: UC San Diego Coursera Intermediate Programming team
-  * @author Anmol Tiwari
-  * Date: June 17, 2020
-  * */
 public class HelloWorld extends PApplet
 {
 	/** Your goal: add code to display second map, zoom in, and customize the background.
