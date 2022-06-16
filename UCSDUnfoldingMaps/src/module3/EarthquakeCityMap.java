@@ -21,12 +21,7 @@ import de.fhpotsdam.unfolding.utils.MapUtils;
 //Parsing library
 import parsing.ParseFeed;
 
-/** EarthquakeCityMap
- * An application with an interactive map displaying earthquake data.
- * Author: UC San Diego Intermediate Software Development MOOC team
- * @author Anmol Tiwari
- * Date: June 27,2020
- * */
+
 public class EarthquakeCityMap extends PApplet {
 
 	// You can ignore this.  It's to keep eclipse from generating a warning.
